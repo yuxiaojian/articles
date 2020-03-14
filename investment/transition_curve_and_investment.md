@@ -7,7 +7,7 @@
 
 临床心理学家约翰·费舍 (John M. Fisher) 基于[变革曲线](https://www.ucd.ie/t4cms/Transition%20Curve%20Cranfield%20Article.pdf) 提出了一个[心理变化曲线](https://peopledevelopmentmagazine.com/2016/10/06/12-emotional-states-change/)。
 
-![](images/transition_curve.png)
+![](images/transition_curve.jpg)
 
 人们在面对变化时，首先是焦虑，然后很快会进入一个亢奋状态，因为觉得“这一次能改变点什么了！”。 然而紧随其后是很长的充满负面情绪的过程。有些人心比天高，却很快遭遇更大的挫败；有些人会质疑自己的行为，甚至害怕产生抑郁感；有些人互相指责，产生怨恨，这些负面情绪最终有可能导致完全放弃。而与此同时，有另外一部分人会逐步接受现实，开始拥抱这个变化，经过很长时间完全适应。
 
