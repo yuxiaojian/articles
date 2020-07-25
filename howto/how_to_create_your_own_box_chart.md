@@ -17,23 +17,17 @@ BOX是什么？它是一个区块链基金，由BTC, EOS和XIN组成，取了其
 = 10,000 BOX
 ```
 
-ETC和EOS价格数据可以在[yahoo](https://finance.yahoo.com/)上面直接下载，先在网站上搜索`BTC-USD`或`EOS-USD`，然后在屏幕中间有一个`Historial Data`的菜单，点进里面，选择你需要的时间窗口(Time Period)和频率(Frequency)为每日(Daily)，点击数据表的右上角的`Download`链接，就会下载一个`BTCUSD=X.csv`文件。
-
-![](images/btc-price.png)
-
-`yahoo`提供数据下载，但遗憾的是没有`XIN`的数据。[coinmarketcap](https://coinmarketcap.com)上的加密货币的数据很全，却不提供下载，但我们可以拷贝粘贴，这两个网站的数据是一致的，看你偏好从哪边获取。
-
-在`coinmarketcap`搜索`XIN`，会带你到[`XIN`的页面](https://coinmarketcap.com/currencies/mixin/)
+数据可以[coinmarketcap](https://coinmarketcap.com)上查到，没找到直接下载的途径，就拷贝粘贴。比如在`coinmarketcap`搜索`XIN`，会带你到[`XIN`的页面](https://coinmarketcap.com/currencies/mixin/)，去历史数据中选定日期范围，就可以看到数据
 
 ![](images/xin-price.png)
 
-因为不能直接`coinmarketcap`下载，我们就拷贝粘贴。先创建好一个数据表，我用的是`google sheet`，`excel`应该是类似的。在`coinmarketcap`选择所有数据表，`ctrl+c`然后粘贴到`google sheet`，也可以直接在`coinmarketcap`直接拷贝`BTC`和`EOS`的数据。
+先创建好一个数据表，这里用的是`google sheet`，`excel`应该是类似的。在`coinmarketcap`选择所有数据表，拷贝然后粘贴到`google sheet`，然后继续查询拷贝`BTC`和`EOS`的数据到新表单中。
 
-如果是下载的`csv`数据表，就把它导入到同一个表中，每项生成一个新表单。
+另一个网站[yahoo](https://finance.yahoo.com/)也提供ETC和EOS的数据，而且可以直接下载，但目前还没有`XIN`的数据。这两个网站的数据是一致的，看你喜欢从那边获取，如果是下载的`csv`数据表，就把它导入到同一个表中，每项生成一个新表单。
 
 ![](images/import.png)
 
-原始数据是由近到远的，为了计算方便，把顺序调整为由远到近，在时间那一列上右击，然后选`Sort sheet A->Z`就可以。最后找一个表单把时间列拷贝到一个新表单中，然后把所有表单中的`Close`列拷贝到同一个新表单中，注意数据要对齐。
+原始数据是由近到远的，为了计算方便，把顺序调整为由远到近，在时间那一列上右击，然后选`Sort sheet A->Z`就可以。最后找一个表单把时间列拷贝到一个新表单中，然后把所有表单中的`Close`列拷贝到同一个新表单中，注意数据列要与日期对齐。
 
 ## 输入BOX的购买数据
 
