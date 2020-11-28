@@ -8,7 +8,7 @@
 
 曾经的股灾经历让赛勒特别注重公司的现金流，微策略的账上一直保持有大量现金以备不时之需。2020年疫情之前微策略账上的现金达到5亿美金之多，相当于公司当时市值的一半。充足的现金保证了公司应急之需，可也带来一个问题——如何让现金保值？在疫情之前现金还可以获得2%到3%的稳定利息收入，可是疫情开始后情况一下子变化了。美联储迅速把利息调低至零，而且大量放水以救济民生和维持经济，我想赛勒一定是被下面[这张图](https://www.federalreserve.gov/monetarypolicy/bst_recenttrends.htm)惊到了。
 
-<img src="/Users/steven.yu/Documents/personal/articles/investment/images/fed_balance_sheet.png" style="zoom:61%;" />
+<img src="images/fed_balance_sheet.png" style="zoom:61%;" />
 
 这是美联储的资产负债表，2008到2014的6年里总共增加3万亿，2008年金融危机期间增加大概一万亿，2014年到2020年6年基本没有变, 但是, 仅仅2020年上半年间就增长了3万亿。
 
