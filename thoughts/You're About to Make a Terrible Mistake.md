@@ -410,3 +410,7 @@ Overconfidence takes many forms:
 经济激励是潜移默化的，有时我们甚至意识不可它的存在
 
 >  They believe that we are often *unable* to resist the influence of financial incentives, *even if* we sincerely intend to do so.
+
+多一些时间去最终决定
+
+> • **Finally, decide: in a partnership; with a small committee; or alone, after sleeping on it.**
